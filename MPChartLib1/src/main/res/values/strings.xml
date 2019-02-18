@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StockApp</string>
+    <string name="loading">加载中...</string>
+    <string name="no_data">暂无数据</string>
+    <string name="vol_name">成交量</string>
+    <string name="billions_shou">亿手</string>
+    <string name="millions_shou">万手</string>
+    <string name="shou">手</string>
+    <string name="billions_gu">亿股</string>
+    <string name="millions_gu">万股</string>
+    <string name="gu">股</string>
+    <string name="open">开盘</string>
+    <string name="highest">最高</string>
+    <string name="lowest">最低</string>
+    <string name="close">收盘</string>
+    <string name="tradeAmount">成交量</string>
+    <string name="holdAmount">持仓量</string>
+</resources>

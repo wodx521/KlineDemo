@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KlineDemo</string>
+
+    <string name="oneMinute">1分钟</string>
+    <string name="threeMinute">3分钟</string>
+    <string name="fiveMinute">5分钟</string>
+    <string name="fifteenMinute">15分钟</string>
+    <string name="thirtyMinute">30分钟</string>
+    <string name="oneHour">1小时</string>
+    <string name="oneDay">日线</string>
+    <string name="timeLine">分时</string>
+</resources>
